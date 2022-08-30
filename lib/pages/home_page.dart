@@ -4,7 +4,6 @@ import 'package:flutter_catalog/widgets/drawer.dart';
 class HomePage extends StatelessWidget {
   int days = 30;
   String name = "Pranit Das";
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
